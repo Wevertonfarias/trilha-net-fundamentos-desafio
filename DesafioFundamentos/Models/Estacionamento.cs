@@ -22,6 +22,8 @@ namespace DesafioFundamentos.Models
             string placa = Console.ReadLine();
             veiculos.Add(placa);
 
+            Console.WriteLine("\n")
+
             Console.WriteLine("\nVeículo estacionado!");
         }
 
